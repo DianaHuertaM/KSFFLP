@@ -16,7 +16,8 @@ Parameter 3: Problem type:
 - 1 = p-center
 - 2 = proposed FFLP (CVaR, beta)
 Parameter 4: Value of beta - interval (0,1] (near 0 is equivalent to p-center, near 1 to p-median).
-Parameter 5: Solution method:
+Parameter 5: Maximum computing time allowed 
+Parameter 6: Solution method:
 - 0 = Exact method (CPLEX)
 - 1 = Proposed Kernel Search heuristic
 - 2 = Testing option, where the kernel is generated separately and then the Kernel Search is solved using that predefined kernel.
