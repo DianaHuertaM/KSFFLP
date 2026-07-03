@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <LocalDebuggerWorkingDirectory>..\bin</LocalDebuggerWorkingDirectory>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+    <LocalDebuggerCommandArguments>pmed3.txt 0 0.10 3600 0</LocalDebuggerCommandArguments>
+    <LocalDebuggerCommandArgumentsHistory>pmed3.txt 2 0.10 3600 2|pmed3.txt 2 0.10 3600 1|pmed3.txt 2 0.10 3600 0|pmed3.txt 0 0.10 3600 0|</LocalDebuggerCommandArgumentsHistory>
+    <LocalDebuggerCommand>$(TargetPath)</LocalDebuggerCommand>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <LocalDebuggerCommandArguments>pmed3.txt 2 0.30 3600 2</LocalDebuggerCommandArguments>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <LocalDebuggerWorkingDirectory>..\bin</LocalDebuggerWorkingDirectory>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+    <LocalDebuggerCommandArgumentsHistory>pmed3.txt 2 0.10 3600 1|pmed3.txt 2 0.10 3600 0|pmed3.txt 2 0.30 3600 0|pmed3.txt 2 0.30 3600 1|pmed3.txt 2 0.30 3600 2|</LocalDebuggerCommandArgumentsHistory>
+  </PropertyGroup>
+</Project>

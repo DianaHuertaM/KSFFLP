@@ -1,0 +1,2 @@
+D:\1_Research\KSCVAR_BiObj\CommonFunctions\x64\Debug\CommonFunctions.vcxproj.AssemblyReference.cache
+D:\1_Research\KSCVAR_BiObj\KS-FFLP\CommonFunctions\x64\Debug\CommonFunctions.vcxproj.AssemblyReference.cache
