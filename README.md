@@ -1,5 +1,6 @@
 # KSFFLP
 Paper Source Code: A kernel search heuristic for a fair facility location problem
+https://www.sciencedirect.com/science/article/pii/S0305054821000848?via%3Dihub
 
 #Basic considerations
 
